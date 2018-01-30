@@ -17,9 +17,14 @@ I got this idea when using my own bank's app and saw how clustered and un-friend
 ### Features
 **1. Create new monthly budget** - Create a new monthly budget, add budget categories, and set initial balances for each category.
 
-**2. Enter transactions** - 
+**2. Enter transactions** - Transactions entered would be deducted from the appropriate category's balance by the transaction amount.
+
+**3. Chart spending** - Generate a pie graph of spending for the current month.
+
+**4. Generate reports** - Generate transaction reports, print-friendly budget report
+
 ### Technologies
-Include Technologies here
+Spring MVC, Spring Security, CanvasJS, Bootstrap CSS, MySQL, PHP, Thymeleaf
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Will have to learn the basics of Spring Security and any additional Spring MVC concepts that would be required.
