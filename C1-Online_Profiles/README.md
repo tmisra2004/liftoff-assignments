@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://www.github.com/tmisra2004
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+http://www.linkedin.com/in/tavish-misra
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Tavish Misra Resume - February 2018.pdf](https://github.com/tmisra2004/liftoff-assignments/blob/master/C1-Online_Profiles/Tavish%20Misra%20Resume%20(February%202018).pdf)
