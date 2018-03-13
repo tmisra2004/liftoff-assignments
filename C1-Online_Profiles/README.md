@@ -13,4 +13,4 @@ https://www.github.com/tmisra2004
 http://www.linkedin.com/in/tavish-misra
 
 ### Resume
-[Tavish Misra Resume - February 2018.pdf](https://github.com/tmisra2004/liftoff-assignments/blob/master/C1-Online_Profiles/Tavish%20Misra%20Resume%20(February%202018).pdf)
+[Tavish Misra Resume (March 2018).pdf](https://github.com/tmisra2004/liftoff-assignments/blob/master/C1-Online_Profiles/Tavish%20Misra%20Resume%20(March%202018).pdf)
